@@ -1,1 +1,2 @@
 # Machine-Learning-Stanford-University
+This Is my work for the machine learning course by Andrew Ng on Coursera.This course really helped me understand all the main algorithms of machine learning.The assignments are in matlab (not in python) which is not a downside as it really made it easier to learn the algorithms . The coding in python can be done later which is relatively easy if you've done this course because then you know what you're code is doing.
